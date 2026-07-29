@@ -1,0 +1,3 @@
+pod-os-client
+requests
+pandas
