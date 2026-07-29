@@ -49,8 +49,8 @@ BATCH_CHUNK_SIZE = 50
 RECEIVE_TIMEOUT = 180.0
 
 # Official NYC DOF Supplemental Roll (July 2026)
-CLASS1_URL = "https://www.nyc.gov/assets/finance/downloads/excel/rollingsales/rollingsales_manhattan.xls"  # Placeholder – replace with real Class 1 ZIP
-CLASS2_URL = "https://www.nyc.gov/assets/finance/downloads/excel/rollingsales/rollingsales_brooklyn.xls"  # Placeholder – replace with real Class 2 ZIP
+CLASS1_URL = "https://nyc.gov/assets/finance/downloads/tar/fy27_tc1.zip"  # Placeholder – replace with real Class 1 ZIP
+CLASS2_URL = "https://nyc.gov/assets/finance/downloads/tar/fy27_tc1.zip"  # Placeholder – replace with real Class 2 ZIP
 
 # NOTE: Replace the two URLs above with the real links from:
 # https://www.nyc.gov/site/finance/property/property-assessments.page
